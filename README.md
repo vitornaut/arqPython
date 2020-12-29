@@ -6,7 +6,7 @@ Um código em python para que você possa baixar as aulas de ILP-010 (Linguagem 
 
 ## Instruções:
 
-- Certifiquesse que você tenha o gerenciador de pacotes do Python - [pip](https://pypi.org/project/pip/) - instalado;
+- Certifique-se que você tenha o gerenciador de pacotes do Python - [pip](https://pypi.org/project/pip/) - instalado;
 
 - Baixe a biblioteca [requests](https://pypi.org/project/requests/) através do prompt de comando;
 
